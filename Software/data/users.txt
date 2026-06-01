@@ -1,0 +1,3 @@
+
+WORKER|111111111|Jermaine|212345
+CUSTOMER|123456789|Jermaine|Jermaine|Jermaine|jermaine@gmail.com|(876)222-3112
