@@ -1,4 +1,4 @@
-Tropical Battery Warranty Management System
+Tropical Battery Warranty Management System(MUST BE EXECUTED FROM MAIN FILE)!!
 Overview
 
 The Tropical Battery Warranty Management System is a Java-based desktop application designed to automate and streamline warranty registration, customer management, and refund processing for Tropical Battery. The system provides separate interfaces for customers and workers, allowing efficient management of battery warranties throughout their lifecycle.
